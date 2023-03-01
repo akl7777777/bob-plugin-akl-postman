@@ -2,8 +2,7 @@
 
 postman接口测试工具-bobplugin
 
-初始版本下载地址,双击即可安装
-https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v_0.0.1/bob-plugin-akl-postman_v0.0.1.bobplugin
+初始版本下载地址,双击即可安装[bob-plugin-akl-postman_v0.0.1.bobplugin](https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v0.0.1/bob-plugin-akl-postman_v0.0.1.bobplugin)
 
 Bob的Postman接口调试插件,使用效果如下图:
 
