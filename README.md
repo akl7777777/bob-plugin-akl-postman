@@ -1,5 +1,8 @@
 # bob-plugin-akl-postman
 
+
+bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
+
 postman接口测试工具-bobplugin
 
 初始版本下载地址,双击即可安装[bob-plugin-akl-postman_v0.0.1.bobplugin](https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v0.0.1/bob-plugin-akl-postman_v0.0.1.bobplugin)
@@ -22,11 +25,16 @@ POST
 
 ### bob翻译插件大合集:
 
+
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
 
 >[有道翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-youdao-free-translate)
 
 >[火山翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-volcengine-free-translate)
+
+>[腾讯翻译君插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-tencent-free-translate)
+
+>[腾讯交互翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-transmart-free-translate)
 
 >[百度翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-baidu-free-translate)
 
@@ -34,8 +42,10 @@ POST
 
 >[只为日语 - MOJi辞書（じしょ）](https://github.com/akl7777777/bob-plugin-akl-mojidict-translate)
 
+>[Bob翻译剪切板图片的AlfredWorkflow](https://github.com/akl7777777/BobTranslateClipboard)
 
-bob插件主要为bob用户开发,bob是一款macOS上的翻译软件,bob官网地址:https://bobtranslate.com/
+
+
 
 
 
