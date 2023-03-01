@@ -1,0 +1,13 @@
+{
+    "identifier": "com.akl.bob-plugin-akl-postman",
+    "version": "0.0.1",
+    "category": "translate",
+    "name": "Postman",
+    "summary": "Postman 接口调用插件",
+    "icon": "icon.png",
+    "author": "akl7777777 <akl7777777@163.com>",
+    "homepage": "https://github.com/akl7777777/bob-plugin-akl-postman",
+    "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-postman/main/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": []
+}
