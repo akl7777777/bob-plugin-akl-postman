@@ -5,6 +5,11 @@ postman接口测试工具-bobplugin
 初始版本下载地址,双击即可安装
 https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v_0.0.1/bob-plugin-akl-postman_v0.0.1.bobplugin
 
+Postman接口调试工具,使用效果如下图:
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/84266551/222179753-0dd32d89-b0a1-427c-aeac-319ca39507da.png">
+
+
 ### bob翻译插件大合集:
 
 >[DeepL翻译插件(免秘钥)](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate)
