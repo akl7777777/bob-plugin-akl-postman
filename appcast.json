@@ -2,6 +2,13 @@
   "identifier": "com.akl.bob-plugin-akl-postman",
   "versions": [
     {
+      "version": "0.0.3",
+      "desc": "测试自动发版",
+      "sha256": "c8db10413c67232f4c3197f7ae22d38f624a14ef9cd9a374a45227ee5938bedb",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v0.0.3/bob-plugin-akl-postman.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.2",
       "desc": "Update info.json",
       "sha256": "54d396abed1a1bd4d8c3e88d683b826d0cff1432e8f74f07af5fd83ade88c2dd",
