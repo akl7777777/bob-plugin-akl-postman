@@ -8,7 +8,7 @@ def update_appcast(message):
     with open ("src/info.json", "r") as f:
         info = json.load(f)
     version = info["version"]
-    release_file = Path(f"release/bob-plugin-akl-postman_v{version}.bobplugin")
+    release_file = Path(f"release/bob-plugin-akl-postman.bobplugin")
     assert release_file.is_file(), "Release file not exist"
     with open(release_file, "rb") as f:
         c = f.read()
