@@ -16,7 +16,7 @@ jobs:
         uses: battila7/get-version-action@v2
 
       - name: Package plugin
-        run: mkdir release && zip -j -r release/bob-plugin-akl-postman ./src/*
+        run: mkdir release && zip -j -r release ./src/*
 
       - name: Get last commit title
         id: last-commit
