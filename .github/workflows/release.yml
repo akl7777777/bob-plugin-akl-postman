@@ -15,9 +15,6 @@ jobs:
         id: get_version
         uses: battila7/get-version-action@v2
 
-      - name: Package plugin
-        run: mkdir release && zip -j -r release/bob-plugin-akl-postman.bobplugin ./src/*
-
       - name: Get last commit title
         id: last-commit
         run: echo "::set-output name=last_commit_title::$(git log -1 --pretty=format:%s)"
@@ -29,6 +26,9 @@ jobs:
         run: |
           output=$(python3 scripts/update_appcast.py "${{ steps.last-commit.outputs.last_commit_title }}")
           echo "version=$output" >> $GITHUB_OUTPUT
+
+      - name: Package plugin
+        run: mkdir release && zip -j -r release/bob-plugin-akl-postman_${{ steps.run_script.outputs.version }}.bobplugin ./src/*
 
       - name: Commit files
         run: |
