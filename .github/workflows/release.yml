@@ -49,8 +49,8 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: release/bob-plugin-akl-postman.bobplugin
-          asset_name: bob-plugin-akl-postman.bobplugin
+          file: release/bob-plugin-akl-postman_${{ steps.run_script.outputs.version }}.bobplugin
+          asset_name: bob-plugin-akl-postman_${{ steps.run_script.outputs.version }}.bobplugin
           tag: ${{ steps.run_script.outputs.version }}
           overwrite: true
           body: "${{ steps.last-commit.outputs.last_commit_title }}"
