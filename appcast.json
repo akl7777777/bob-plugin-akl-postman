@@ -3,6 +3,13 @@
   "versions": [
     {
       "version": "0.0.5",
+      "desc": "Update info.json",
+      "sha256": "3fbbdbf843900f56a5994c747bcfa7feed8a885b3ae95045dd9d71da015ca8e7",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v0.0.5/bob-plugin-akl-postman_v0.0.5.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.5",
       "desc": "测自动化版本号",
       "sha256": "4edfa229c4aaaa3901c4b2502ed8cc16c928fdb9c9e6d97a971fa0917bb27aec",
       "url": "https://github.com/akl7777777/bob-plugin-akl-postman/releases/download/v0.0.5/bob-plugin-akl-postman_v0.0.5.bobplugin",
